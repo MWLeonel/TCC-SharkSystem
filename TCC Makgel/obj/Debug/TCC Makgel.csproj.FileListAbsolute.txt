@@ -1,0 +1,478 @@
+C:\Users\User\Desktop\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedor.resources
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarCliente.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+D:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+D:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+D:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+D:\3º\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+J:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+J:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+J:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+J:\3º\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+F:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+F:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+F:\3º\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+F:\3º\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+F:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+D:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+J:\3º\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.exe
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\bin\Debug\TCC Makgel.pdb
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\bin\Debug\MaterialSkin.dll
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csprojAssemblyReference.cache
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.cache
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.csproj.CopyComplete
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.exe
+C:\Users\renat_000\Desktop\TCC Makgel\TCC Makgel\obj\Debug\TCC Makgel.pdb
+J:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.exe
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.pdb
+J:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe
+J:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.pdb
+J:\3º\ttc makgel 2\TCC Makgel\bin\Debug\MaterialSkin.dll
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+J:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\ttc makgel 2\TCC Makgel\bin\Debug\MaterialSkin.dll
+F:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.exe
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.pdb
+F:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe
+F:\3º\ttc makgel 2\TCC Makgel\bin\Debug\TCC Makgel.pdb
+F:\3º\ttc makgel 2\TCC Makgel\bin\Debug\MaterialSkin.dll
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+F:\3º\ttc makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\MaterialSkin.dll
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+J:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+J:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.exe
+J:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\TCC Makgel.pdb
+J:\3º\TCC Makgel 2\TCC Makgel\bin\Debug\MaterialSkin.dll
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.exe
+J:\3º\TCC Makgel 2\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\bdMakgel.mdf
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\MaterialSkin.dll
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\bdMakgel.mdf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel 2 - Cópia (2)\TCC Makgel\bin\Debug\MaterialSkin.dll
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.exe
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.pdb
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\bdMakgel.mdf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\MaterialSkin.dll
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\bdMakgel.mdf
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\TCC Makgel.pdb
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\bin\Debug\MaterialSkin.dll
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.exe
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel Ultimo\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel.mdf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.pdb
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\MaterialSkin.dll
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+E:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.exe
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.pdb
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel.mdf
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.pdb
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\MaterialSkin.dll
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+J:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.exe
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.pdb
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel.mdf
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.pdb
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\MaterialSkin.dll
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+D:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.exe
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.pdb
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel.mdf
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.exe
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\TCC Makgel.pdb
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\bin\Debug\MaterialSkin.dll
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel - Cópia\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe.config
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC Makgel.exe
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC Makgel.pdb
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\bdMakgel.mdf
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\bdMakgel_log.ldf
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\TCC Makgel.exe
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\TCC Makgel.pdb
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\bin\Debug\MaterialSkin.dll
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarClienteUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.cadastrarFornecedorUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarClienteUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarEstoqueUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarFornecedorUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarOrcamentoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.consultarServicoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.entradaEstoqueUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.escondeTelaUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmConsultarCliente.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmPrincipal.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.frmLogin.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.Properties.Resources.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarOrcamentoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC_Makgel.registrarServicoUC.resources
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC Makgel.csproj.GenerateResource.Cache
+F:\3º\Desenvolvimento do Trabalho de Conclusão de Curso(TCC)\TCC Makgel ultimo\TCC Makgel\obj\Debug\TCC Makgel.csprojResolveAssemblyReference.cache
